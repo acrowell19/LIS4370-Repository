@@ -1,0 +1,7 @@
+**\# Crowell - Clean datasets quickly & efficiently**
+
+Crowell includes functions to help clean datasets for different forms of data, such as vectors, dataframes, etc.
+
+The main data cleaning function allows for the customization of data cleaning by allowing or disallowing the function to clean the dataset in certain ways
+
+The package also features another function that simplifies the process of cleaning column names within a dataframe

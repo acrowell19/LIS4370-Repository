@@ -1,0 +1,21 @@
+Package: Crowell
+Title: Clean Datasets Quickly and Efficiently
+Version: 1.0
+Authors@R: 
+    person("Alex", "Crowell", , "acrowell19@usf.edu", role = c("aut", "cre"))
+Description: A package for cleaning datasets. The user provides the dataset,
+and tells the package how they want to modify the dataset in order to prepare
+it for data analysis or visualization.
+Depends: R (>= 3.1.2)
+Imports: 
+    dplyr,
+    tidyverse,
+    tm,
+    plyr,
+    tidyr,
+    Janitor
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+LazyData: true
